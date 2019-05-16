@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-8 offset-2">
                 <div class="form-group row">
-                    <h1>Add New Post</h1>
+                    <h1>Edit Profile</h1>
                 </div>
             </div>
         </div>
